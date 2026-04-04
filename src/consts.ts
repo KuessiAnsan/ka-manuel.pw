@@ -1,4 +1,4 @@
-export const SITE_TITLE = 'mdjiyehoue.eng';
+export const SITE_TITLE = 'Manuel D.';
 export const SITE_DESCRIPTION = 'A blog by Manuel D.';
 export const AUTHOR_NAME = 'Manuel D.';
 export const AUTHOR_BIO = 'Engineering \u{1F6E0}\u{FE0F} \u007E Scalable Infrastructures, Cloud Computing \u0026 Machine Learning \u{1F9EE}';
