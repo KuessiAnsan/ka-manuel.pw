@@ -12,15 +12,15 @@
 
 [[main]]
 name = "Videos"
-url = "https://www.youtube.com/@megaconfidence"
+url = "https://www.youtube.com/@engwmanuel"
 weight = 10
 [main.params]
 target = "_blank"
 
-[[main]]
-name = "Talks"
-pageRef = "talks"
-weight = 25
+#[[main]]
+#name = "Talks"
+#pageRef = "talks"
+#weight = 25
 
 [[main]]
 name = "Blog"
@@ -32,10 +32,10 @@ weight = 20
 # pageRef = "books"
 # weight = 30
 
-[[main]]
-name = "Uses"
-pageRef = "uses"
-weight = 40
+#[[main]]
+#name = "Uses"
+#pageRef = "uses"
+#weight = 40
 
 [[main]]
 identifier = "search"
@@ -43,12 +43,3 @@ weight = 100
 [main.params]
 action = "search"
 icon = "search"
-
-# -- Footer Menu --
-# The footer menu is displayed at the bottom of the page, just before
-# the copyright notice. Configure as per the main menu above.
-
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10

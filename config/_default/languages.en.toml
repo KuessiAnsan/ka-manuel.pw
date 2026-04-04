@@ -2,7 +2,7 @@ languageCode = "en"
 languageName = "English"
 weight = 1
 
-title = "confidence.sh"
+title = "mdjiyehoue.eng"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 
@@ -11,17 +11,17 @@ rtl = false
 isoCode = "en"
 displayName = "EN"
 dateFormat = "January 2, 2006"
-description = "A blog by Confidence Okoghenun"
+description = "A blog by Manuel D."
 # mainSections = ["section1", "section2"]
 
 [params.author]
-bio = "Software Engineer 🛠️ • Developer Advocate 🥑"
-name = "Confidence Okoghenun"
+bio = "Engineering 🛠️ ~ Scalable Infrastructures, Cloud Computing & Machine Learning 🧮"
+name = "Manuel D."
 image = "img/author.jpg"
-headline = "Software Engineer 🛠️ • Developer Advocate 🥑"
+headline = "Engineering 🛠️ ~ Scalable Infrastructures, Cloud Computing & Machine Learning 🧮"
 links = [
-    { youtube = "https://www.youtube.com/@megaconfidence" },
-    { github = "https://github.com/megaconfidence" },
-    { twitter = "https://twitter.com/megaconfidence" },
-    { linkedin = "https://linkedin.com/in/megaconfidence" },
+    { youtube = "https://www.youtube.com/@engwmanuel" },
+    { github = "https://github.com/KuessiAnsan" },
+#    { twitter = "https://twitter.com/megaconfidence" },
+    { linkedin = "https://www.linkedin.com/in/manuel-d-435b16355/" },
 ]

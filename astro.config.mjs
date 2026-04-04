@@ -9,7 +9,7 @@ import { rehypeStaticTweets } from './src/lib/rehype-static-tweets.js';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://confidence.sh',
+  site: 'https://mdjiyehoue.me',
   redirects: {
     '/blog/index.xml': '/rss.xml',
     '/index.xml': '/rss.xml',
